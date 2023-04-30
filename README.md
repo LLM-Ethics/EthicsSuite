@@ -1,6 +1,6 @@
 # EthicsSuite
 
-This repository maintain a test suite (a.k.a., dataset) with 17k complex,
+This repository maintain a test suite (a.k.a., dataset) with 20k complex,
 contextualized and realistic moral situations for understanding LLMs' behaviors.
 
 To generate these moral situations, we leverage the moral situations in
