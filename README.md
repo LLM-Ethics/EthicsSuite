@@ -18,3 +18,15 @@ represented in the following form:
 where the `text` field is the contextualized moral situation, the
 `original_text` field represents the seed moral situation in ETHICS and the
 `source` field indicate which aspect the moral situation is about.
+
+If you find the test suite useful, please consider cite our paper:
+```
+@misc{ma2023oops,
+    title={"Oops, Did I Just Say That?" Testing and Repairing Unethical Suggestions of Large Language Models with Suggest-Critique-Reflect Process},
+    author={Pingchuan Ma and Zongjie Li and Ao Sun and Shuai Wang},
+    year={2023},
+    eprint={2305.02626},
+    archivePrefix={arXiv},
+    primaryClass={cs.SE}
+}
+```
